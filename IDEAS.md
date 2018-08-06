@@ -1,4 +1,4 @@
-#Ideas 
+# Ideas 
 
 - use vue router
 - integrate state management 
